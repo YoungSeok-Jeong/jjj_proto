@@ -1,0 +1,621 @@
+
+iris_light_03.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+iris_light_03_ brow_01
+  rotate: false
+  xy: 837, 116
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+iris_light_03_body_01
+  rotate: false
+  xy: 901, 2
+  size: 117, 124
+  orig: 117, 124
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_01
+  rotate: true
+  xy: 444, 403
+  size: 284, 391
+  orig: 284, 391
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_acc_04
+  rotate: true
+  xy: 295, 281
+  size: 159, 145
+  orig: 159, 145
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_body_01
+  rotate: false
+  xy: 444, 689
+  size: 420, 333
+  orig: 420, 333
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_hand_02
+  rotate: false
+  xy: 2, 263
+  size: 179, 93
+  orig: 179, 93
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_head_01
+  rotate: false
+  xy: 837, 460
+  size: 182, 198
+  orig: 182, 198
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_head_02
+  rotate: true
+  xy: 774, 7
+  size: 104, 125
+  orig: 104, 125
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_lag_01
+  rotate: true
+  xy: 866, 826
+  size: 74, 152
+  orig: 74, 152
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_lag_02
+  rotate: true
+  xy: 866, 902
+  size: 120, 155
+  orig: 120, 155
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_tail_02
+  rotate: false
+  xy: 2, 2
+  size: 291, 259
+  orig: 291, 259
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_wingacc_01
+  rotate: false
+  xy: 629, 6
+  size: 79, 105
+  orig: 79, 105
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_wingeffect_03
+  rotate: true
+  xy: 901, 128
+  size: 133, 121
+  orig: 133, 121
+  offset: 0, 0
+  index: -1
+iris_light_03_effect_02
+  rotate: true
+  xy: 548, 113
+  size: 288, 287
+  orig: 288, 287
+  offset: 0, 0
+  index: -1
+iris_light_03_effect_03
+  rotate: false
+  xy: 2, 592
+  size: 440, 430
+  orig: 440, 430
+  offset: 0, 0
+  index: -1
+iris_light_03_effect_04
+  rotate: false
+  xy: 866, 678
+  size: 148, 146
+  orig: 148, 146
+  offset: 0, 0
+  index: -1
+iris_light_03_effect_07
+  rotate: true
+  xy: 295, 442
+  size: 148, 146
+  orig: 148, 146
+  offset: 0, 0
+  index: -1
+iris_light_03_hair_02
+  rotate: true
+  xy: 529, 3
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+iris_light_03_horn_03
+  rotate: false
+  xy: 710, 6
+  size: 62, 105
+  orig: 62, 105
+  offset: 0, 0
+  index: -1
+iris_light_03_horn_04
+  rotate: true
+  xy: 183, 264
+  size: 92, 94
+  orig: 92, 94
+  offset: 0, 0
+  index: -1
+iris_light_03_iris_01
+  rotate: false
+  xy: 295, 3
+  size: 232, 276
+  orig: 232, 276
+  offset: 0, 0
+  index: -1
+iris_light_03_iris_02
+  rotate: true
+  xy: 2, 358
+  size: 232, 276
+  orig: 232, 276
+  offset: 0, 0
+  index: -1
+iris_light_03_lace_02
+  rotate: false
+  xy: 837, 660
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+iris_light_03_leg_01
+  rotate: false
+  xy: 442, 282
+  size: 104, 119
+  orig: 104, 119
+  offset: 0, 0
+  index: -1
+iris_light_03_leg_02
+  rotate: true
+  xy: 837, 144
+  size: 117, 62
+  orig: 117, 62
+  offset: 0, 0
+  index: -1
+iris_light_03_wing_l
+  rotate: true
+  xy: 837, 263
+  size: 195, 180
+  orig: 195, 180
+  offset: 0, 0
+  index: -1
+
+iris_light_032.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+iris_light_03_acc_01
+  rotate: false
+  xy: 891, 677
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+iris_light_03_acc_02
+  rotate: false
+  xy: 891, 623
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+iris_light_03_acc_03
+  rotate: true
+  xy: 288, 240
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+iris_light_03_acc_04
+  rotate: true
+  xy: 232, 97
+  size: 141, 114
+  orig: 141, 114
+  offset: 0, 0
+  index: -1
+iris_light_03_acc_05
+  rotate: true
+  xy: 808, 112
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+iris_light_03_arm_01
+  rotate: false
+  xy: 707, 315
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+iris_light_03_arm_02
+  rotate: false
+  xy: 952, 741
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_02
+  rotate: false
+  xy: 2, 240
+  size: 284, 391
+  orig: 284, 391
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_acc_01
+  rotate: false
+  xy: 774, 317
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_acc_02
+  rotate: true
+  xy: 842, 101
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_acc_03
+  rotate: false
+  xy: 626, 117
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_arm_01
+  rotate: false
+  xy: 232, 4
+  size: 125, 91
+  orig: 125, 91
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_armor_01
+  rotate: true
+  xy: 637, 379
+  size: 82, 134
+  orig: 82, 134
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_hand_01
+  rotate: true
+  xy: 472, 197
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_headacc_01
+  rotate: false
+  xy: 943, 678
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_jaw_01
+  rotate: false
+  xy: 472, 114
+  size: 74, 81
+  orig: 74, 81
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_pinger_01
+  rotate: false
+  xy: 945, 620
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_pinger_02
+  rotate: true
+  xy: 799, 467
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_shoulder_01
+  rotate: true
+  xy: 359, 12
+  size: 134, 90
+  orig: 134, 90
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_shoulder_02
+  rotate: false
+  xy: 468, 289
+  size: 68, 119
+  orig: 68, 119
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_tail_01
+  rotate: true
+  xy: 502, 420
+  size: 163, 133
+  orig: 163, 133
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_wing_01
+  rotate: false
+  xy: 2, 633
+  size: 374, 389
+  orig: 374, 389
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_wing_02
+  rotate: false
+  xy: 378, 757
+  size: 216, 265
+  orig: 216, 265
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_wingacc_02
+  rotate: false
+  xy: 451, 39
+  size: 87, 73
+  orig: 87, 73
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_wingeffect_01
+  rotate: false
+  xy: 2, 7
+  size: 228, 231
+  orig: 228, 231
+  offset: 0, 0
+  index: -1
+iris_light_03_dragon_wingeffect_02
+  rotate: false
+  xy: 288, 280
+  size: 178, 128
+  orig: 178, 128
+  offset: 0, 0
+  index: -1
+iris_light_03_ear_01
+  rotate: true
+  xy: 899, 109
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+iris_light_03_effect_01
+  rotate: false
+  xy: 540, 39
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+iris_light_03_effect_05
+  rotate: false
+  xy: 601, 605
+  size: 210, 191
+  orig: 210, 191
+  offset: 0, 0
+  index: -1
+iris_light_03_effect_06
+  rotate: false
+  xy: 637, 463
+  size: 160, 140
+  orig: 160, 140
+  offset: 0, 0
+  index: -1
+iris_light_03_expl
+  rotate: false
+  xy: 596, 798
+  size: 225, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+iris_light_03_eye_01
+  rotate: false
+  xy: 677, 116
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+iris_light_03_eye_02
+  rotate: false
+  xy: 548, 94
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+iris_light_03_eye_03
+  rotate: false
+  xy: 451, 2
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+iris_light_03_eye_04
+  rotate: false
+  xy: 538, 294
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+iris_light_03_face_01
+  rotate: false
+  xy: 538, 333
+  size: 79, 85
+  orig: 79, 85
+  offset: 0, 0
+  index: -1
+iris_light_03_hair_01
+  rotate: false
+  xy: 619, 325
+  size: 86, 52
+  orig: 86, 52
+  offset: 0, 0
+  index: -1
+iris_light_03_hair_04
+  rotate: false
+  xy: 823, 806
+  size: 196, 216
+  orig: 196, 216
+  offset: 0, 0
+  index: -1
+iris_light_03_hand_01
+  rotate: true
+  xy: 594, 52
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+iris_light_03_horn_01
+  rotate: false
+  xy: 891, 741
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+iris_light_03_horn_02
+  rotate: true
+  xy: 510, 5
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+iris_light_03_lace_01
+  rotate: true
+  xy: 626, 161
+  size: 79, 49
+  orig: 79, 49
+  offset: 0, 0
+  index: -1
+iris_light_03_lace_03
+  rotate: false
+  xy: 744, 111
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+iris_light_03_lace_04
+  rotate: false
+  xy: 813, 605
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+iris_light_03_light
+  rotate: false
+  xy: 699, 236
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: -1
+iris_light_03_mouse_01
+  rotate: false
+  xy: 601, 585
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+iris_light_03_rune_01
+  rotate: false
+  xy: 543, 211
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+iris_light_03_rune_02
+  rotate: false
+  xy: 548, 128
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+iris_light_03_rune_03
+  rotate: false
+  xy: 621, 242
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+iris_light_03_rune_04
+  rotate: false
+  xy: 773, 380
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+iris_light_03_rune_05
+  rotate: false
+  xy: 780, 234
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+iris_light_03_rune_06
+  rotate: true
+  xy: 677, 158
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+iris_light_03_rune_07
+  rotate: true
+  xy: 760, 156
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+iris_light_03_rune_08
+  rotate: false
+  xy: 799, 522
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+iris_light_03_rune_09
+  rotate: false
+  xy: 843, 151
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+iris_light_03_rune_10
+  rotate: false
+  xy: 813, 715
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+iris_light_03_rune_11
+  rotate: false
+  xy: 813, 632
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+iris_light_03_rune_12
+  rotate: true
+  xy: 348, 148
+  size: 130, 122
+  orig: 130, 122
+  offset: 0, 0
+  index: -1
+iris_light_03_shoulder_01
+  rotate: true
+  xy: 288, 585
+  size: 46, 85
+  orig: 46, 85
+  offset: 0, 0
+  index: -1
+iris_light_03_tail_01
+  rotate: false
+  xy: 288, 410
+  size: 212, 173
+  orig: 212, 173
+  offset: 0, 0
+  index: -1
+iris_light_03_wing_r
+  rotate: true
+  xy: 378, 585
+  size: 170, 221
+  orig: 170, 221
+  offset: 0, 0
+  index: -1
